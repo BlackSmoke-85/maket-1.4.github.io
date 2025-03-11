@@ -154,6 +154,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     gap:16px;
+    list-style-type: none;
 }
 
 .footer-contact {
@@ -192,7 +193,8 @@ body {
     justify-content: flex-start;
     align-items: center;
     gap:7px;
-    margin-top: 24px;    
+    margin-top: 24px;
+    list-style-type: none;
 }
 .footer-lang__btn {
     background-color: transparent; /* Убираем цвет фона */
