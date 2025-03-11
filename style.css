@@ -61,7 +61,7 @@ body {
     opacity: 0.5;
 }    
 .header-menu__logo {
-    margin-right: 78px; /* Уменьшаем отступ слева для логотипа */
+    margin-right: 78px; 
 }
 .menu {
     flex: 1;
@@ -101,7 +101,7 @@ body {
 
 .list__btn_active{
     color: #7E7E82; 
-    display: flex; /* Используем flexbox для кнопки */
+    display: flex; 
     align-items: center; /* Центрируем элементы по вертикали */   
 }
 
@@ -115,10 +115,8 @@ body {
     background-position: 50% 50%;/* устанавливает начальную позицию фонового изображения*/
 }
 .button:active {
-    /* Стили кнопки при нажатии */
     color: #7E7E82;
-    /* Кнопка видоизменяется при наведении курсора */
-    opacity: 0.5;
+    opacity: 0.5; 
   }
  .button:hover {
     opacity: 0.5; /* Прозрачность 50% */
@@ -209,7 +207,7 @@ body {
     opacity: 0.5; /* Прозрачность 50% */
 }
 .footer-lang__btn:hover{
-    opacity: 0.5; /* Прозрачность 50% */
+    opacity: 0.5; 
 }
 
    
